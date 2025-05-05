@@ -1,10 +1,10 @@
-# 🎬 Movie App
+# Movie App
 
 MovieApp is an Android application built using the [The Movie Database (TMDb)](https://www.themoviedb.org/) API. It allows users to explore current and upcoming movies, view detailed information, and access cast details.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/635122bc-2b0d-47b8-9ac2-c7e032f53ff5)
 ![Image](https://github.com/user-attachments/assets/f901c66a-2789-4cc6-bf60-49b705fb4933)
@@ -12,7 +12,7 @@ MovieApp is an Android application built using the [The Movie Database (TMDb)](h
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```plaintext
 movieapp/
@@ -28,20 +28,20 @@ movieapp/
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎞 Display now playing and upcoming movies
-- 📋 Show movie details such as description, rating, runtime, genre, release date, and cast
-- 🎭 Cast detail screen: name, character, and profile image
-- 🔍 SearchView to filter movies by title
-- 💡 MVVM (Model-View-ViewModel)architecture and use of ViewModel
-- 🔗 Networking via Retrofit
-- 🖼 Image loading and transformation with Glide
-- 🔄 Asynchronous operations using Kotlin Coroutine
+-  Display now playing and upcoming movies
+-  Show movie details such as description, rating, runtime, genre, release date, and cast
+-  Cast detail screen: name, character, and profile image
+-  SearchView to filter movies by title
+-  MVVM (Model-View-ViewModel)architecture and use of ViewModel
+-  Networking via Retrofit
+-  Image loading and transformation with Glide
+-  Asynchronous operations using Kotlin Coroutine
 
 ---
 
-## 🧰 Technologies Used and Their Purpose
+## Technologies Used and Their Purpose
 
 | Technology / Library        | Purpose / Usage |
 |-----------------------------|------------------------|
@@ -69,14 +69,14 @@ movieapp/
 
 ---
 
-## 📄 Navigation Flow
+## Navigation Flow
 
 - **HomeFragment** → When a movie is selected → **DetailFragment**
 - **DetailFragment** → When a cast member is selected → **CastFragment**
 
 ---
 
-## 🤝 Teşekkürler
+## Teşekkürler
 
 - [TMDb API](https://www.themoviedb.org/documentation/api)
 - [Glide](https://github.com/bumptech/glide)
