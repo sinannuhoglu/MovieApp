@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MovieApp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/themeLightGrey</item>
+    </style>
+
+    <style name="CustomSearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:textColor">@color/white</item> <!-- Yazı rengi siyah -->
+        <item name="android:textColorHint">@color/themeTextGrey</item> <!-- Hint rengi gri -->
+        <item name="queryBackground">@color/themeLightGrey</item> <!-- Arka plan beyaz -->
+    </style>
+
+    <style name="Theme.MovieApp" parent="Base.Theme.MovieApp" />
+</resources>
