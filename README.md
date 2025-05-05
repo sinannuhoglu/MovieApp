@@ -1,6 +1,6 @@
 # Movie App
 
-MovieApp is an Android application built using the [The Movie Database (TMDb)](https://www.themoviedb.org/) API. It allows users to explore current and upcoming movies, view detailed information, and access cast details.
+MovieApp is an Android application built using the [The Movie Database (TMDb)](https://www.themoviedb.org/) API. It allows users to explore current and upcoming movies, view detailed information and access cast details.
 
 ---
 
