@@ -76,7 +76,7 @@ movieapp/
 
 ---
 
-## Teşekkürler
+## Acknowledgements
 
 - [TMDb API](https://www.themoviedb.org/documentation/api)
 - [Glide](https://github.com/bumptech/glide)
